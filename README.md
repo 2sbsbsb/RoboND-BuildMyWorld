@@ -41,8 +41,7 @@ $ git clone https://github.com/2sbsbsb/RoboND-BuildMyWorld
 $ cd /home/gazebo_ws/RoboND-BuildMyWorld/
 $ mkdir build
 $ cd build/
-$ cmake ../
-$ make
+$ cmake ../ && make
 ```
 
 #### Step 4 Add the library path to the Gazebo plugin path  
