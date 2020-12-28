@@ -4,7 +4,7 @@ The "Build My Robot project" is the first project that comes in Gazebo World les
 
 ### Directory Structure
 ```
-    .myrobot                           # 
+    .RoboND-BuildMyWorld               # Project root folder
     ├── images                         # Code output image                   
     │   ├── result.png
     ├── model                          # Model files of the two-wheeled robot
@@ -58,4 +58,4 @@ $ gazebo world/office.world
 
 ### Output
 The hello world message and the two-wheeled robot inside a Gazebo World should both launch as follow: 
-![alt text](images/result.png)
+![Screenshot](../images/result.png)
