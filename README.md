@@ -32,6 +32,7 @@ $ sudo apt-get upgrade -y
 
 #### Step 2 Clone the lab folder in /home/workspace/
 ```sh
+$ mkdir -p /home/gazebo_ws/
 $ cd /home/gazebo_ws/
 $ git clone https://github.com/2sbsbsb/RoboND-BuildMyWorld
 ```
