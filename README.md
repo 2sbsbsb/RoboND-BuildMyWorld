@@ -57,4 +57,10 @@ $ gazebo world/office.world
 
 ### Output
 The hello world message and the two-wheeled robot inside a Gazebo World should both launch as follow: 
-![Screenshot](https://github.com/2sbsbsb/RoboND-BuildMyWorld/blob/main/images/result.jpg?raw=true)
+
+#### Gazebo UI Screenshot 
+
+![Gazebo UI Screenshot](https://github.com/2sbsbsb/RoboND-BuildMyWorld/blob/main/images/result.jpg?raw=true)
+
+#### Console Screenshot 
+![Console Screenshot](https://github.com/2sbsbsb/RoboND-BuildMyWorld/blob/main/images/output_console.png?raw=true)
